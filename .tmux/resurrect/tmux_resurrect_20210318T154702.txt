@@ -1,0 +1,37 @@
+pane	0	0	:vim	0	:-	0	:/home/supah0t/Desktop/Modern-C	1	nvim	:nvim
+pane	0	0	:vim	0	:-	1	:/home/supah0t/Desktop/Coding	0	nvim	:nvim
+pane	0	0	:vim	0	:-	2	:/home/supah0t/Desktop/Modern-C	0	bash	:
+pane	0	1	:vimspector config	0	:	0	:/home/supah0t/Desktop/Coding	1	nvim	:nvim
+pane	0	2	:test shell script	0	:	0	:/home/supah0t	0	nvim	:nvim
+pane	0	2	:test shell script	0	:	1	:/home/supah0t	1	bash	:
+pane	0	3	:bashrc	1	:*	0	:/home/supah0t	1	nvim	:nvim
+pane	0	3	:bashrc	1	:*	1	:/home/supah0t/Desktop	0	bash	:
+pane	0	3	:bashrc	1	:*	2	:/home/supah0t/.local/bin	0	bash	:
+pane	2	0	:bash	0	:-	0	:/home/supah0t/Desktop	0	nvim	:nvim
+pane	2	0	:bash	0	:-	1	:/home/supah0t/Desktop	1	bash	:
+pane	2	1	:nvim	1	:*	0	:/home/supah0t/Desktop	1	nvim	:nvim
+pane	2	1	:nvim	1	:*	1	:/home/supah0t/Desktop	0	bash	:
+pane	3	0	:bash	1	:*	0	:/home/supah0t/Desktop	1	bash	:
+pane	4	0	:nvim	1	:*	0	:/home/supah0t/.local/bin	1	nvim	:nvim test.sh
+pane	4	0	:nvim	1	:*	1	:/home/supah0t/.local/bin	0	bash	:
+pane	5	0	:bash	1	:*	0	:/home/supah0t/Desktop	1	bash	:
+pane	5	1	:nvim	0	:-	0	:/home/supah0t	1	nvim	:nvim
+pane	6	0	:nvim	0	:-	0	:/home/supah0t/Desktop/Modern-C	1	nvim	:nvim test.c
+pane	6	0	:nvim	0	:-	1	:/home	0	bash	:
+pane	6	0	:nvim	0	:-	2	:/home/supah0t/Desktop	0	nvim	:nvim
+pane	6	1	:nvim	1	:*	0	:/home/supah0t/Desktop/Info-texts	1	nvim	:nvim Tmux_info.txt
+pane	7	0	:bash	1	:*	0	:/home/supah0t/Desktop/atra-app	1	bash	:
+window	0	0	0	:-	5ea7,254x64,0,0[254x50,0,0{144x50,0,0,1,109x50,145,0,2},254x13,0,51,3]
+window	0	1	0	:	c1e1,254x64,0,0,4
+window	0	2	0	:	7d35,254x64,0,0[254x52,0,0,5,254x11,0,53,6]
+window	0	3	1	:*	f98f,254x64,0,0[254x34,0,0{136x34,0,0,7,117x34,137,0,8},254x29,0,35,9]
+window	2	0	0	:-	ebca,254x64,0,0[254x48,0,0,11,254x15,0,49,12]
+window	2	1	1	:*	a5cd,254x64,0,0[254x44,0,0,13,254x19,0,45,14]
+window	3	0	1	:*	6124,254x64,0,0,15
+window	4	0	1	:*	f551,254x64,0,0[254x51,0,0,16,254x12,0,52,17]
+window	5	0	1	:*	e120,254x64,0,0,21
+window	5	1	0	:-	e11f,254x64,0,0,20
+window	6	0	0	:-	0be2,254x64,0,0[254x42,0,0,22,254x21,0,43{130x21,0,43,23,123x21,131,43,24}]
+window	6	1	1	:*	e124,254x64,0,0,25
+window	7	0	1	:*	e125,254x64,0,0,26
+state	6	5

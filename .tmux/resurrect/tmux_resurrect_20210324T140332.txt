@@ -1,0 +1,9 @@
+pane	0	0	:frontend	1	:*	0	:/home/supah0t/Desktop/atra-app/atra-app/frontend/gui	1	nvim	:nvim
+pane	0	0	:frontend	1	:*	1	:/home/supah0t/Desktop/atra-app/atra-app/frontend/gui	0	nvim	:nvim
+pane	0	0	:frontend	1	:*	2	:/home/supah0t/Desktop/atra-app/atra-app/frontend/gui	0	npm	:npm
+pane	0	1	:backend	0	:-	0	:/home/supah0t/Desktop/atra-app/atra-app/backend/src	0	nvim	:nvim
+pane	0	1	:backend	0	:-	1	:/home/supah0t/Desktop/atra-app/atra-app	1	nvim	:nvim
+pane	0	1	:backend	0	:-	2	:/home/supah0t/Desktop/atra-app/atra-app/backend/src	0	python3	:python3 manage.py runserver
+window	0	0	1	:*	e594,253x68,0,0[253x56,0,0{128x56,0,0,5,124x56,129,0,6},253x11,0,57,0]
+window	0	1	0	:-	ad92,253x68,0,0[253x59,0,0{128x59,0,0,2,124x59,129,0,4},253x8,0,60,1]
+state	0	

@@ -1,0 +1,38 @@
+===Info for c programs===
+
+=Basic usage=
+    1. compile the program (gcc [filename])
+    2. run the program (./[nameOfExecutable])
+
+=Options=
+    1. -o [nameOfExecutable]             default name is a.out, if option is specified names it [nameOfExecutable]
+        gcc source.c -o program
+
+    2.  -Wg                              compiles the program and shows warning
+
+    3. -Werrorg                          compiles the program and shows the warning if errors in program
+        gcc source.c -Werror -o program
+
+    4. -Wallg                            checks not only for errors but also for any kind of warning like unused variables (good practice)
+        gcc source.c -Wall -o program        
+
+    5. -gg                               Permission to debug the program
+        gcc -ggdb3 source.c Wall -o program  (permission to debug the program using gdb)
+
+    6. -lg                               Links a library to our source file
+        gcc -Wall source.c -o program -lm  (the "m" links math.h)
+        Always have to link math file because it's function come from a library which is not linked by default (in contrast to stdio.h functions)
+
+
+=Measuring time=
+    1.  #include <stdio.h>
+        #include <time.h>
+
+        int main() {
+            clock_t tic = clock();
+
+            printf("Hello my man\n");
+
+            clock_t toc = clock();
+            printf("Time elapsed: %fs\n", (double)(toc - tic) / CLOCKS_PER_SEC);
+        }

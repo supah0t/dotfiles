@@ -1,0 +1,13 @@
+=== My wiki ===
+
+
+1. [[Todos]]
+
+2. [[Tests]]
+
+3. [[C_info]]
+
+4. [[Elli]]
+
+
+(command -->    :VimwikiTable x y  creates table with x rows and y columns)

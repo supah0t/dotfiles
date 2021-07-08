@@ -1,0 +1,21 @@
+pane	0	0	:vim	0	:-	0	:/home/supah0t/Desktop/Modern-C	1	nvim	:nvim
+pane	0	0	:vim	0	:-	1	:/home/supah0t/Desktop/Coding	0	nvim	:nvim
+pane	0	0	:vim	0	:-	2	:/home/supah0t/Desktop/Modern-C	0	bash	:
+pane	0	1	:vimspector config	0	:	0	:/home/supah0t/Desktop/Coding	1	nvim	:nvim
+pane	0	2	:test shell script	0	:	0	:/home/supah0t	0	nvim	:nvim -S
+pane	0	2	:test shell script	0	:	1	:/home/supah0t	1	bash	:
+pane	0	3	:bashrc	1	:*	0	:/home/supah0t	1	nvim	:nvim -S
+pane	0	3	:bashrc	1	:*	1	:/home/supah0t/Desktop	0	bash	:
+pane	0	3	:bashrc	1	:*	2	:/home/supah0t/.local/bin	0	bash	:
+pane	1	0	:bash	1	:*	0	:/home/supah0t	1	bash	:
+pane	2	0	:bash	0	:-	0	:/home/supah0t/Desktop	0	nvim	:nvim
+pane	2	0	:bash	0	:-	1	:/home/supah0t/Desktop/Fonts/nerd-fonts	1	bash	:
+pane	2	1	:nvim	1	:*	0	:/home/supah0t/Desktop	1	nvim	:nvim
+window	0	0	0	:-	5ea7,254x64,0,0[254x50,0,0{144x50,0,0,1,109x50,145,0,2},254x13,0,51,3]
+window	0	1	0	:	c1e1,254x64,0,0,4
+window	0	2	0	:	7d35,254x64,0,0[254x52,0,0,5,254x11,0,53,6]
+window	0	3	1	:*	7d0c,254x64,0,0[254x34,0,0{136x34,0,0,7,117x34,137,0,8},254x29,0,35,10]
+window	1	0	1	:*	6120,254x64,0,0,11
+window	2	0	0	:-	8f8c,254x64,0,0[254x43,0,0,12,254x20,0,44,14]
+window	2	1	1	:*	6122,254x64,0,0,13
+state	2	

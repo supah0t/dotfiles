@@ -1,0 +1,15 @@
+alias python=python3
+alias pip=pip3
+alias vim=nvim
+alias atra='cd ~/Desktop/atra-app/atra-app'
+
+alias ls='ls --color=auto'
+
+#custom vimspector configuration file creation alias
+alias create='vimspector-config.sh'
+
+# some more ls aliases
+alias ll='ls -alF'
+
+# for my scripts folder
+alias scripts='cd ~/.local/myScripts/'

@@ -1,0 +1,15 @@
+pane	0	0	:vim	0	:	0	:/home/supah0t/Desktop/Modern-C	1	nvim	:nvim
+pane	0	0	:vim	0	:	1	:/home/supah0t/Desktop/Coding	0	nvim	:nvim
+pane	0	0	:vim	0	:	2	:/home/supah0t/Desktop/Modern-C	0	bash	:
+pane	0	1	:vimspector config	0	:	0	:/home/supah0t/Desktop/Coding	1	nvim	:nvim
+pane	0	2	:test shell script	0	:-	0	:/home/supah0t	0	nvim	:nvim -S
+pane	0	2	:test shell script	0	:-	1	:/home/supah0t	1	bash	:
+pane	0	3	:bashrc	1	:*	0	:/home/supah0t	0	nvim	:nvim -S
+pane	0	3	:bashrc	1	:*	1	:/home/supah0t/Desktop	0	bash	:
+pane	0	3	:bashrc	1	:*	2	:/home/supah0t/MyScripts	1	nvim	:nvim make.sh
+pane	0	3	:bashrc	1	:*	3	:/home/supah0t/.local/bin	0	bash	:
+window	0	0	0	:	5ea7,254x64,0,0[254x50,0,0{144x50,0,0,1,109x50,145,0,2},254x13,0,51,3]
+window	0	1	0	:	c1e1,254x64,0,0,4
+window	0	2	0	:-	7d35,254x64,0,0[254x52,0,0,5,254x11,0,53,6]
+window	0	3	1	:*	1a62,254x64,0,0[254x37,0,0{136x37,0,0,7,117x37,137,0,8},254x26,0,38{135x26,0,38,9,118x26,136,38,10}]
+state	0	

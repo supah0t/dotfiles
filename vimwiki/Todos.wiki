@@ -1,0 +1,48 @@
+== Carve app todos ==
+
+    = Forms modifications =
+        - [x] Submit general/specific order should reset price
+        - [x] Submit general should include comment 
+        - [x] Color selection dropdown list
+        - [x] Everything in Greek
+
+        - [ ] Query about drawer/traversa when small/big height!
+        - [ ] Handling of drawer/cupboard!
+
+
+    = App additions =
+        - [x] Display complete doors from *current* page, don't pass to different component
+        - [x] Multiple doors counter
+        - [x] Change quantity of submited doors
+        - [x] Ability to delete submited door
+        - [x] Logo + title
+        - [x] Change all select fields to search with sort (ant.design select with search)
+        - [x] Error handling one verything!
+        - [x] Scroll down on adding new door
+        - [x] Error handling on out of max bounds dimensions
+        - [x] Images
+        - [x] Rest of database!
+        - [x] Color previews (ready in testing file)
+
+        - [ ] Total price!!!
+        - [ ] Comments handling!!
+
+
+    = General =
+        - [ ] handling catalogue exceptions!!!
+        - [ ] And.design result after successfull submission
+
+        - [ ] Email after submision (done but needs to be implemented with proper emails)
+
+
+    = Recommendations = 
+        * email - genika stoixia
+        * bafh tik
+        * monades metrishs
+
+        * Index for complete doors list? ---
+        * Drawer/cupboard query?
+        * Add measurements next to dimensions??
+
+
+
